@@ -1,0 +1,14 @@
+D:\#GDrive\C#\8-2021 C# Zaklady (1)\OOP 4-2 MiniHra\bin\Debug\OOP 4-2 MiniHra.exe.config
+D:\#GDrive\C#\8-2021 C# Zaklady (1)\OOP 4-2 MiniHra\bin\Debug\OOP 4-2 MiniHra.exe
+D:\#GDrive\C#\8-2021 C# Zaklady (1)\OOP 4-2 MiniHra\bin\Debug\OOP 4-2 MiniHra.pdb
+D:\#GDrive\C#\8-2021 C# Zaklady (1)\OOP 4-2 MiniHra\obj\Debug\OOP 4-2 MiniHra.csproj.AssemblyReference.cache
+D:\#GDrive\C#\8-2021 C# Zaklady (1)\OOP 4-2 MiniHra\obj\Debug\OOP 4-2 MiniHra.csproj.CoreCompileInputs.cache
+D:\#GDrive\C#\8-2021 C# Zaklady (1)\OOP 4-2 MiniHra\obj\Debug\OOP 4-2 MiniHra.exe
+D:\#GDrive\C#\8-2021 C# Zaklady (1)\OOP 4-2 MiniHra\obj\Debug\OOP 4-2 MiniHra.pdb
+C:\Users\x\Disk Google (bloody.ondra@gmail.com)\C#\8-2021 C# Zaklady\OOP 4-2 MiniHra\bin\Debug\OOP 4-2 MiniHra.exe.config
+C:\Users\x\Disk Google (bloody.ondra@gmail.com)\C#\8-2021 C# Zaklady\OOP 4-2 MiniHra\bin\Debug\OOP 4-2 MiniHra.exe
+C:\Users\x\Disk Google (bloody.ondra@gmail.com)\C#\8-2021 C# Zaklady\OOP 4-2 MiniHra\bin\Debug\OOP 4-2 MiniHra.pdb
+C:\Users\x\Disk Google (bloody.ondra@gmail.com)\C#\8-2021 C# Zaklady\OOP 4-2 MiniHra\obj\Debug\OOP 4-2 MiniHra.csproj.AssemblyReference.cache
+C:\Users\x\Disk Google (bloody.ondra@gmail.com)\C#\8-2021 C# Zaklady\OOP 4-2 MiniHra\obj\Debug\OOP 4-2 MiniHra.csproj.CoreCompileInputs.cache
+C:\Users\x\Disk Google (bloody.ondra@gmail.com)\C#\8-2021 C# Zaklady\OOP 4-2 MiniHra\obj\Debug\OOP 4-2 MiniHra.exe
+C:\Users\x\Disk Google (bloody.ondra@gmail.com)\C#\8-2021 C# Zaklady\OOP 4-2 MiniHra\obj\Debug\OOP 4-2 MiniHra.pdb
